@@ -32,11 +32,11 @@
 
 ## 📂 Featured Projects
 
-### 🔧 [MechTruck](https://github.com/Jdmora91/MechTruck) 
+### 🔧 [MechTruck](https://github.com/Jdmora91/mechanic) 
 Workshop management system for local mechanics *(In development)*  
 *Technologies: React, Python, Flask*
 
-### 💈 [Barber Shop Website](https://github.com/Jdmora91/Barber-Shop) 
+### 💈 [Barber Shop Website](https://github.com/Jdmora91/BarberShop-Book)
 Complete frontend for barbershop with booking system  
 *Technologies: React, CSS3, JavaScript*
 
