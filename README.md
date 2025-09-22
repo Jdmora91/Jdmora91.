@@ -56,7 +56,7 @@ Various full-stack applications from intensive coding bootcamp
 
 ## 📫 Let's Connect
 
-- 📧 **Email:** [tu-email@gmail.com](mailto:tu-email@gmail.com)
+- 📧 **Email:** [J.donismora@gmail.com](j.donismora@gmail.com)
 - 💼 **LinkedIn:** [José Donis Mora Ramírez](https://www.linkedin.com/in/jose-donis-mora-ramirez-870284321/)
 - 🔗 **Portfolio:** *Coming soon!*
 
